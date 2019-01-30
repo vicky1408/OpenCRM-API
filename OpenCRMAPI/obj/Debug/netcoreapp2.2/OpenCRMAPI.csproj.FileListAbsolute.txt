@@ -1,0 +1,14 @@
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/bin/Debug/netcoreapp2.2/OpenCRMAPI.deps.json
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/bin/Debug/netcoreapp2.2/OpenCRMAPI.runtimeconfig.json
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/bin/Debug/netcoreapp2.2/OpenCRMAPI.runtimeconfig.dev.json
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/bin/Debug/netcoreapp2.2/OpenCRMAPI.dll
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/bin/Debug/netcoreapp2.2/OpenCRMAPI.pdb
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/obj/Debug/netcoreapp2.2/OpenCRMAPI.csprojAssemblyReference.cache
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/obj/Debug/netcoreapp2.2/OpenCRMAPI.csproj.CoreCompileInputs.cache
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/obj/Debug/netcoreapp2.2/OpenCRMAPI.RazorAssemblyInfo.cache
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/obj/Debug/netcoreapp2.2/OpenCRMAPI.RazorAssemblyInfo.cs
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/obj/Debug/netcoreapp2.2/OpenCRMAPI.AssemblyInfoInputs.cache
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/obj/Debug/netcoreapp2.2/OpenCRMAPI.AssemblyInfo.cs
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/obj/Debug/netcoreapp2.2/OpenCRMAPI.RazorTargetAssemblyInfo.cache
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/obj/Debug/netcoreapp2.2/OpenCRMAPI.dll
+/home/vignesh/Projects/OpenCRM-API/OpenCRMAPI/obj/Debug/netcoreapp2.2/OpenCRMAPI.pdb
